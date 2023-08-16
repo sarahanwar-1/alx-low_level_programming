@@ -1,1 +1,1 @@
-typo
+echo "typo"
