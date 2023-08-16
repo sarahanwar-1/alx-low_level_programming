@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints
  *
@@ -16,4 +15,4 @@ int main(void)
 
 	return (0);
 
-}	
+}
