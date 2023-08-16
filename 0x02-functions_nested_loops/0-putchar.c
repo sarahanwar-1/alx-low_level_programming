@@ -1,25 +1,20 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main - desc
- *
+ * main - print
+ * is written
  * Return: 0
  */
+
 int main(void)
 {
-	int i = 0, j;
-
-	while (i < 1)
-	{
-		j = 0;
-		while (j < 1)
-		{
-			printf("_putchar ");
-			j++;
-		}
-
-		printf("\n");
-		i++;
-	}
-
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
