@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * prints_to_98 - prints all
+ * print_to_98 - prints all
  * follwed
  * @n: prints from this num
  */
