@@ -1,9 +1,9 @@
 #include "main.h"
+
 /**
- * main - type
- *
- * Return: 0
+ * print_alphabet - print all
  */
+
 void print_alphabet(void)
 {
 	char letter;
