@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - cause 
+ * main - cause
  * Return:  0
  */
 
